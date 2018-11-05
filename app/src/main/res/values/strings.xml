@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizProject</string>
+    <string name="quizTitle">My Awesome Quiz</string>
+    <string name="startButtonText">Start Quiz</string>
+    <string name="InitialHighscoreText">Highscore: 0</string>
+    <string name="scoreText">Score: 0</string>
+</resources>
